@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/A:/interfacing%20trys/MCAL_Layer/mcal_std_types.h</file>
+            <file>file:/A:/interfacing%20trys/MCAL_Layer/I2C/hal_i2c.h</file>
+            <file>file:/A:/interfacing%20trys/MCAL_Layer/usart/hal_usart.h</file>
+            <file>file:/A:/interfacing%20trys/MCAL_Layer/Interrupt/mcal_interrupt_manager.h</file>
+            <file>file:/A:/interfacing%20trys/MCAL_Layer/Interrupt/mcal_internal_interrupt.h</file>
+            <file>file:/A:/interfacing%20trys/MCAL_Layer/usart/hal_usart_cfg.h</file>
+            <file>file:/A:/interfacing%20trys/MCAL_Layer/SPI/hal_spi.h</file>
+            <file>file:/A:/interfacing%20trys/MCAL_Layer/CCP/ccp_cfg.h</file>
+            <file>file:/A:/interfacing%20trys/MCAL_Layer/GPIO/hal_gpio_cfg.h</file>
+            <file>file:/A:/interfacing%20trys/MCAL_Layer/compiler.h</file>
+            <file>file:/A:/interfacing%20trys/MCAL_Layer/Interrupt/mcal_interrupt_gen_cfg.h</file>
+            <file>file:/A:/interfacing%20trys/MCAL_Layer/CCP/hal_ccp.h</file>
+            <file>file:/A:/interfacing%20trys/MCAL_Layer/GPIO/hal_gpio.h</file>
+            <file>file:/A:/interfacing%20trys/MCAL_Layer/Timer0/hal_timer0.h</file>
+            <file>file:/A:/interfacing%20trys/MCAL_Layer/std_libraries.h</file>
+            <file>file:/A:/interfacing%20trys/MCAL_Layer/Interrupt/mcal_external_interrupt.h</file>
+            <file>file:/A:/interfacing%20trys/MCAL_Layer/Timer1/hal_timer1.h</file>
+            <file>file:/A:/interfacing%20trys/MCAL_Layer/device_config.h</file>
+            <file>file:/A:/interfacing%20trys/MCAL_Layer/Interrupt/mcal_interrupt_config.h</file>
+            <file>file:/A:/interfacing%20trys/MCAL_Layer/Timer2/hal_timer2.h</file>
+            <file>file:/A:/interfacing%20trys/MCAL_Layer/Timer3/hal_timer3.h</file>
+            <file>file:/A:/interfacing%20trys/MCAL_Layer/EEPROM/hal_eeprom.h</file>
+        </group>
+    </open-files>
+</project-private>
